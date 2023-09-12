@@ -3,17 +3,13 @@
 
 To run:
 Download the zip file 
-```bash
 
-```
 
 ## To run first download the zip file and then in your command line:
 
-```python
+```bash
 npm i
 npm run build
 npm run start
-
 ```
-
 HAPPY CODING <3
